@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "Source Code Pro";
+    src: url(SourceCodePro-Regular.otf);
+}
+
+html {
+    background: black;
+}
+
+body {
+    color: white;
+    font-family: "Source Code Pro";
+    font-size: 16px;
+    margin: 4em auto;
+    white-space: pre;
+    width: 768px;
+}
+
+img {
+    width: 768px;
+}
